@@ -2,7 +2,8 @@
 
 <img align="center" src="https://raw.githubusercontent.com/FrenchWW/FrenchWW/master/top.svg"/>
 
-<h1 align=center>hi, i'm FileBrute</h1>
+<h1 align=center>Hi, i'm FileBrute</h1>
+<h1 align=middle>I like to make websites, and code minecraft plugins, and scripts</h1>
   <p align=center>
       Discord: File#0666
     </br>
