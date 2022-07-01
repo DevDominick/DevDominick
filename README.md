@@ -35,4 +35,4 @@
 <br />
 <br />
 
-[xino]: https://top.gg/bot/708700387770630194
+[discord]: https://discord.gg/d56TuCPPDz
