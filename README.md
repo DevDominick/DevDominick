@@ -2,8 +2,7 @@
 
 ## I'm a Student!
 
-- ✨ I’m the founder of [Xino][xino].
-- 🌱 I’m currently learning how to write better python code
+- ✨ I’m the founder of [YourGamePanel][xino].
 - 🥅 My Goal for 2022 is to become more familiar with GitHub in general
 
 ### Languages and Tools:
@@ -13,6 +12,7 @@
     <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img align="center" src="https://img.shields.io/badge/Php-F05032?style=for-the-badge&logo=php&logoColor=white" alt="PhP" />
 </p>
 
 #### OS:
