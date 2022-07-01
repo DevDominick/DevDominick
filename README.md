@@ -1,4 +1,4 @@
-### Hey, I'm Narmy 👋
+### Hey, I'm Marcus 👋
 
 ## I'm a Student!
 
