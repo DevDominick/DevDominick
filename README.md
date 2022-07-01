@@ -2,7 +2,7 @@
 
 ## I'm a Student!
 
-- ✨ I’m the founder of [YourGamePanel][yourgamepanel].
+- ✨ I’m the founder of YourGamePanel.
 - 🥅 My Goal for 2022 is to become more familiar with GitHub in general
 
 ### Languages and Tools:
