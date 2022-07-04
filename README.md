@@ -3,7 +3,8 @@
 ## I'm a Student!
 
 - ✨ I’m the founder of YourGamePanel.
-- 🥅 My Goal for 2022 is to become more familiar with GitHub in general
+- 🎁 https://ogu.gg/OhEU
+- 🥅 My Goal for 2022 is to freelance for more people!
 
 ### Languages and Tools:
 
