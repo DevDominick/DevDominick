@@ -1,4 +1,4 @@
-### Hey, I'm Marcus 👋
+### Hey, I'm OhEU 👋
 
 ## I'm a Student!
 
