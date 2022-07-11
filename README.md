@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://discord.gg/oheu" target="_blank"> <img src="https://cdn.discordapp.com/attachments/993598082732273765/993987707850199111/oheu.gif" alt="OhEU Git"/></a>
+  <a href="https://discord.gg/oheu" target="_blank"> <img src="https://media.discordapp.net/attachments/993598082732273765/993987707850199111/oheu.gif?width=1440&height=184" alt="OhEU Git"/></a>
 </p>
 
-<p align="center"><img src="https://gpvc.arturio.dev/Automized" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Automized" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Automized" alt="Profile Forks"></a>
+<p align="center"><img src="https://gpvc.arturio.dev/OhEU" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/OhEU" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/OhEU" alt="Profile Forks"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -28,5 +28,5 @@ const thai = {
 ---
 
 <p href="https://discord.gg/ptools" align="center">
-    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/948598821389230131/>
+    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/924895440913174528/>
 </p>
