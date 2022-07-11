@@ -6,6 +6,12 @@
 - 🎁 https://ogu.gg/OhEU
 - 🥅 My Goal for 2022 is to freelance for more people!
 
+### Discord
+
+<p href="https://discord.gg/ptools" align="center">
+    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/924895440913174528/>
+</p>
+
 ### Languages and Tools:
 
 #### Languages, Databases & Frameworks:
@@ -23,10 +29,6 @@
     <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
     <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" />
 </p>  
-
-<p href="https://discord.gg/ptools" align="center">
-    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/924895440913174528/>
-</p>
 
 #### Programms:
 <p align="left">
