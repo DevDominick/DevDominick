@@ -24,6 +24,10 @@
     <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" />
 </p>  
 
+<p href="https://discord.gg/ptools" align="center">
+    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/924895440913174528/>
+</p>
+
 #### Programms:
 <p align="left">
     <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
