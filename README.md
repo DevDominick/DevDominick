@@ -1,45 +1,32 @@
-### Hey, I'm OhEU 👋
+<p align="center">
+  <a href="https://dsc.gg/Automized" target="_blank"> <img src="https://i.imgur.com/k0mE9cf.gif" alt="Automized's Github"/></a>
+</p>
 
-## I'm a Student!
+<p align="center"><img src="https://gpvc.arturio.dev/Automized" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Automized" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Automized" alt="Profile Forks"></a>
 
-- ✨ I’m the founder of YourGamePanel.
-- 🎁 https://ogu.gg/OhEU
-- 🥅 My Goal for 2022 is to freelance for more people!
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-### Discord:
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+```
 <p href="https://discord.gg/ptools" align="center">
-    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/924895440913174528/>
+    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/948598821389230131/>
 </p>
-
-### Languages and Tools:
-
-#### Languages, Databases & Frameworks:
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img align="center" src="https://img.shields.io/badge/Php-F05032?style=for-the-badge&logo=php&logoColor=white" alt="PhP" />
-</p>
-
-#### OS:
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    <img align="center" src="https://img.shields.io/badge/Ubuntu-DD4410?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-    <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="IOS" />
-</p>  
-
-#### Programms:
-<p align="left">
-    <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
-    <img align="center" src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</p>
-<p>
-  
-</p>
-
-<br />
-<br />
-
-[discord]: https://discord.gg/d56TuCPPDz
