@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dsc.gg/Automized" target="_blank"> <img src="https://i.imgur.com/k0mE9cf.gif" alt="Automized's Github"/></a>
+  <a href="https://discord.gg/oheu" target="_blank"> <img src="https://cdn.discordapp.com/attachments/993598082732273765/993987707850199111/oheu.gif" alt="OhEU Git"/></a>
 </p>
 
 <p align="center"><img src="https://gpvc.arturio.dev/Automized" alt="Visitors"></a>
@@ -26,7 +26,7 @@ const thai = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-```
+
 <p href="https://discord.gg/ptools" align="center">
     <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/948598821389230131/>
 </p>
