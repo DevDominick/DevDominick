@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://discord.gg/oheu" target="_blank"> <img src="https://media.discordapp.net/attachments/993598082732273765/993987707850199111/oheu.gif?width=1440&height=184" alt="OhEU Git"/></a>
-</p>
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 <p align="center"><img src="https://gpvc.arturio.dev/OhEU" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/OhEU" alt="Profile Stars"></a>
