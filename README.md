@@ -9,12 +9,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const OhEU = {
+const CyberPart = {
   code: [Javascript, PhP, HTML, CSS, Python],
   contactme: {
-                        discord: "OhEU#2149",
-                        other: "Ever#9999",
-                        invite: "https://discord.gg/oheu"
+                        discord: "CyberPart#2128",
                       }
 }
 ```
