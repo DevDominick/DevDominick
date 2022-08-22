@@ -22,5 +22,5 @@ const CyberPart = {
 ---
 
 <p href="https://discord.gg/ptools" align="center">
-    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/924895440913174528/>
+    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/675871691058184192/>
 </p>
