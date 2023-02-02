@@ -13,10 +13,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const CyberPart = {
+const FileBrute = {
   code: [Javascript, PhP, HTML, CSS, Python],
   contactme: {
-                        discord: "CyberPart#2128",
+                        discord: "FileBrute#0001",
                       }
 }
 ```
