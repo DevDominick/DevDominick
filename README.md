@@ -25,5 +25,5 @@ const DevDominick = {
 ---
 
 <p href="https://discord.gg/ptools" align="center">
-    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/675871691058184192/>
+    <img alt="Discord Presence" src=https://lanyard.cnrad.dev/api/1135677330245832774/>
 </p>
